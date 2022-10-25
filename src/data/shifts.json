@@ -1,0 +1,29 @@
+{
+  "trash": [
+    [
+      "Umido"
+    ],
+    [
+      "Secco"
+    ],
+    [
+      "Umido",
+      "Vetro e lattine"
+    ],
+    [
+      "Carta e cartone"
+    ],
+    [
+      "Umido"
+    ],
+    [
+      "Plastica"
+    ]
+  ],
+  "street": [
+    "Via Trentino",
+    "Via Basilicata",
+    "Via Istria",
+    "Via Lombardia"
+  ]
+}
